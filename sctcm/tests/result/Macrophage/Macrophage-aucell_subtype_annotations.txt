@@ -1,1 +1,12 @@
-
+5: Paneth cell:Large Intestine|Cancer cell:Brain
+11: Myoblast:Muscle|Circulating Progenitor cell:Blood
+4: Mitotic Arrest Phase Fetal Germ cell:Fetal Gonad|Natural Killer T (NKT) cell:Fetal Kidney
+3: Natural Killer T (NKT) cell:Fetal Kidney|Alpha cell:Pancreatic Islet
+7: Natural Killer T (NKT) cell:Fetal Kidney|Meiotic Prophase Fetal Germ cell:Fetal Gonad
+8: Microglial cell:Brain|Myofibroblast:Liver
+1: Glutamatergic neuron:Dorsolateral Prefrontal Cortex|Alveolar Epithelial Progenitor cell:Embryonic Stem Cell
+9: Anterior Foregut Endoderm cell:Lung|Alveolar Epithelial Progenitor cell:Embryonic Stem Cell
+0: Circulating Stem Like cell:Peripheral Blood|Alveolar Epithelial Progenitor cell:Embryonic Stem Cell
+2: Circulating Stem Like cell:Peripheral Blood|Alveolar Epithelial Progenitor cell:Embryonic Stem Cell
+6: Muscle cell:Embryoid Body|Luteinizing Granulosa cell:Ovarian Follicle
+10: Stem cell:Stomach|Cancer Stem cell:Ovarian Cortex
