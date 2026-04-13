@@ -1,0 +1,23 @@
+5: Myotube:Muscle|Myoblast:Muscle
+3: Mesenchymal Stem cell:Brown Adipose Tissue|Lake Et al.Science.In2:Brain
+21: Mesenchymal Stem cell:Brown Adipose Tissue|Pancreatic Progenitor cell:Pancreas
+6: Lake Et al.Science.In2:Brain|Mesenchymal Stem cell:Brown Adipose Tissue
+22: Mesenchymal Stem cell:Brown Adipose Tissue|Lake Et al.Science.In2:Brain
+9: Muscle cell:Embryoid Body|Myotube:Muscle
+20: Alpha cell:Pancreatic Islet|Monocyte:Lung
+10: Natural Killer T (NKT) cell:Fetal Kidney|Epidermal Transit Amplifying cell:Foreskin
+16: Primordial Germ cell:Germ|Neuron:Embryo
+17: Lake Et al.Science.In1:Brain|Primordial Germ cell:Germ
+7: Mast cell:Kidney|Lake Et al.Science.Ex6:Brain
+8: Purkinje cell:Undefined|Corneal Epithelial Progenitor cell:Embryonic Stem Cell
+18: Gonadal Endothelial cell:Fetal Gonad|Plasma cell:Kidney
+11: MKI67+ Progenitor cell:Large Intestine|Mesodermal Embryonic Stem cell:Germ
+2: MKI67+ Progenitor cell:Large Intestine|Endothelial Precursor cell:Peripheral Blood
+14: MKI67+ Progenitor cell:Large Intestine|Endothelial Progenitor cell:Blood Vessel
+0: DCLK1+ Progenitor cell:Large Intestine|Villous Stromal cell:Placenta
+1: DCLK1+ Progenitor cell:Large Intestine|Leydig Precursor cell:Fetal Gonad
+12: Stromal cell:Embryoid Body|FGFR1HighNME5- Epithelial cell:Esophagus
+4: Paneth cell:Large Intestine|M2 macrophage:Serum
+15: M2 macrophage:Brain|Kupffer cell:Fetal Liver
+13: Plasmablast:Blood|Natural Regulatory T (Treg) cell:Peripheral Blood
+19: Mast cell:Kidney|Lymphoid cell:Undefined
