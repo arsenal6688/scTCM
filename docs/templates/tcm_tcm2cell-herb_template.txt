@@ -1,0 +1,2 @@
+Type	pkl_path
+Herb	/home/sunyan/work_item/scTCM/bin/v0.1.0/sctcm/tests/result/tcm_herb2target-herb2target.pkl

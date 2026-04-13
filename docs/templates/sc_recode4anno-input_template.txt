@@ -1,0 +1,22 @@
+0	Fibroblast
+1	Fibroblast
+2	Cardiomyocyte
+3	Macrophage
+4	Cardiomyocyte
+5	Endothelial cell
+6	Cardiomyocyte
+7	Fibroblast
+8	Perivascular cell
+9	Endothelial cell
+10	Lymphoid cell
+11	Cardiomyocyte
+12	Perivascular cell
+13	Endothelial cell
+14	Fibroblast
+15	Cardiomyocyte
+16	Macrophage
+17	Fibroblast
+18	Smooth muscle cell
+19	Endothelial cell
+20	Cardiomyocyte
+21	Endothelial cell

@@ -1,0 +1,5 @@
+Sample_name	Path	Type	Group
+GSM7559366	/home/sunyan/work_item/cardiovascularDisease/dataSet/HFpEF/GSE236585/GSM7559366	10x_mtx	CTRL
+GSM7559367	/home/sunyan/work_item/cardiovascularDisease/dataSet/HFpEF/GSE236585/GSM7559367	10x_mtx	CTRL
+GSM7559364	/home/sunyan/work_item/cardiovascularDisease/dataSet/HFpEF/GSE236585/GSM7559364	10x_mtx	CASE
+GSM7559365	/home/sunyan/work_item/cardiovascularDisease/dataSet/HFpEF/GSE236585/GSM7559365	10x_mtx	CASE

@@ -1,0 +1,2 @@
+Type	pkl_path
+Formula	/home/sunyan/work_item/scTCM/bin/v0.1.0/sctcm/tests/result/tcm_formula2target-formula2target.pkl

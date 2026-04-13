@@ -1,1 +1,5 @@
-
+Formula_name	Herb_name	JunChen_weight	Clinical_ratio
+Qishenyiqi Diwan	HUANG QI	1.2	0.5
+Qishenyiqi Diwan	DAN SHEN	1.1	0.33
+Qishenyiqi Diwan	SAN QI	1.0	0.16
+Qishenyiqi Diwan	JIANG XIANG YOU	0.9	0.01

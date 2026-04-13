@@ -1,0 +1,3 @@
+Name_pinyin	Name_Chinese	Name_English	Name_Latin	Self_added_ingredients
+DAN SHEN	丹参	Danshen equivalent plant:  salvia przewalskii,  salvia miltiorrhiza  f  alba	Salvia miltiorrhiza	NA
+SAN QI	三七	Sanchi	Panax pseudo - ginseng  var. notoginseng  [syn.  panax notoginseng ]	317843|6326198|5321893|440259|5321892|347359|10015395|5319687|8209|441552|164860|5322034|31404|5316877|54580480|11331683

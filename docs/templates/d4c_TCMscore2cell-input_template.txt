@@ -1,0 +1,4 @@
+Name	Type	PKL_path	Parameters
+105119	Ingredient	/home/sunyan/work_item/scTCM/bin/v0.1.0/sctcm/tests/result/tcm_ing2targetall.pkl	0.7,NA,NA
+DAN SHEN	Herb	/home/sunyan/work_item/scTCM/bin/v0.1.0/sctcm/tests/result/tcm_herb2targetall.pkl	1.0,1.2,NA
+Qishenyiqi Diwan	Formula	/home/sunyan/work_item/scTCM/bin/v0.1.0/sctcm/tests/result/tcm_form2targetall.pkl	1.3,NA,NA

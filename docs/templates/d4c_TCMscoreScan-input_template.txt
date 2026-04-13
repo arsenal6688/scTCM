@@ -1,0 +1,4 @@
+Type	PKL_path
+Ingredient	/home/sunyan/work_item/scTCM/bin/v0.1.0/sctcm/tests/result/tcm_ing2targetall.pkl
+Herb	/home/sunyan/work_item/scTCM/bin/v0.1.0/sctcm/tests/result/tcm_herb2targetall.pkl
+Formula	/home/sunyan/work_item/scTCM/bin/v0.1.0/sctcm/tests/result/tcm_form2targetall.pkl

@@ -1,0 +1,11 @@
+PubChem_CID	Name_IUPAC	Self_defined_targets
+105119	1,6-dimethyl-8,9-dihydronaphtho[1,2-g][1]benzofuran-10,11-dione	EGFR|TP53|IL18
+102185096	(8S)-4,4,8-trimethyl-2,3,8,9-tetrahydronaphtho[2,1-f][1]benzofuran-1,7,11-trione	NA
+114917	1,6-dimethylnaphtho[1,2-g][1]benzofuran-10,11-dione	NA
+135872	1-hydroxy-8-methyl-2-propan-2-ylphenanthrene-3,4-dione	NA
+164676	1,6,6-trimethyl-8,9-dihydro-7H-naphtho[1,2-g][1]benzofuran-10,11-dione	NA
+72	3,4-dihydroxybenzoic acid	NA
+1549111	(Z)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid	NA
+61200	2-hydroxy-4-methylbenzaldehyde	NA
+5281792	(2R)-3-(3,4-dihydroxyphenyl)-2-[(E)-3-(3,4-dihydroxyphenyl)prop-2-enoyl]oxypropanoic acid	NA
+11972438	4-hydroxy-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxybenzoic acid	NA

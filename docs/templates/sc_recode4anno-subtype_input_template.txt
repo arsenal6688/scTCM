@@ -1,0 +1,12 @@
+0	Mac-IL1β
+1	Mac-undefined
+2	Mac-IL1β
+3	Mac-undefined
+4	Mac-IL1β
+5	Mac-undefined
+6	Mac-IL1β
+7	Mac-undefined
+8	Mac-IL1β
+9	Mac-LYVE1
+10	Mac-LYVE1
+11	Mac-LYVE1

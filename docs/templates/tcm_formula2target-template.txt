@@ -1,0 +1,3 @@
+Name_pinyin	Name_Chinese	Composition_pinyin	Self_added_herbs
+Qishenyiqi Diwan	芪参益气滴丸	HUANG QI,DAN SHEN,SAN QI,JIANG XIANG YOU	NA
+JIU LI XIANG	芪参益气滴丸	HUANG QI,DAN SHEN,SAN QI,JIANG XIANG YOU	JIU LI XIANG

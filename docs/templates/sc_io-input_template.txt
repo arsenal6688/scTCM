@@ -1,0 +1,5 @@
+Sample_name	Path	Type	Group
+GSM9102205	/home/sunyan/work_item/cardiovascularDisease/dataSet/HFrEF/GSE302337/GSM9102205_c9_raw_feature_bc_matrix_FPR_0.05_filtered.h5	10x_h5	CTRL
+GSM9102207	/home/sunyan/work_item/cardiovascularDisease/dataSet/HFrEF/GSE302337/GSM9102207_v30_raw_feature_bc_matrix_FPR_0.05_filtered.h5	10x_h5	CASE
+GSM4907712	/home/sunyan/work_item/cardiovascularDisease/dataSet/HFrEF/GSE161470/GSM4907712	10x_mtx	CTRL
+GSM5292817	/home/sunyan/work_item/cardiovascularDisease/dataSet/HFrEF/GSE161470/GSM5292817	10x_mtx	CASE
